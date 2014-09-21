@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1294171476 source:d:\my code\spoj\phony\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<fstream>
+	<stack>
+	<cmath>
+	<bitset>
+
+1294171476 
+
+1294171476 source:/media/EDU n GAMES/my code/spoj/phony/main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<fstream>
+	<stack>
+	<cmath>
+	<bitset>
+

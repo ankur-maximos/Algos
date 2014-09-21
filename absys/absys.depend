@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1288272713 source:d:\my code\spoj\absys\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1291964216 source:d:\my code\spoj\acpc10a\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1322595626 source:d:\my code\spoj\dfs\main.cpp
+	<iostream>
+	<stack>
+	<stdlib.h>
+

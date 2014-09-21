@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1307157555 source:d:\my code\spoj\algos\binarysearch\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<cstdlib>
+

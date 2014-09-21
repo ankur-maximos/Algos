@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1293308577 source:d:\my code\spoj\prime\main.cpp
+	<iostream>
+	<cmath>
+

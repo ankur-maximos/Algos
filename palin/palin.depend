@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1287659058 source:d:\spoj\palin\main.cpp
+	<iostream>
+	<string.h>
+
+1289683130 source:d:\my code\spoj\palin\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

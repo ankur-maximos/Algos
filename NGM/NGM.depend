@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1287561988 source:d:\spoj\ngm\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+
+1316354781 source:d:\my code\spoj\ngm\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+

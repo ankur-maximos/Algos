@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1287258914 source:d:\spoj\fact\main.cpp
+	<iostream>
+
+1287259082 source:d:\my code\fact\main.cpp
+	<iostream>
+
+1287259082 source:d:\my code\spoj\fact\main.cpp
+	<iostream>
+

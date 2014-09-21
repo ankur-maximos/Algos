@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1306595286 source:d:\my code\spoj\algos\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

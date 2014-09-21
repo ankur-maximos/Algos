@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1311851718 source:d:\my code\spoj\prime3\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<queue>
+	<list>
+	<fstream>
+	<stack>
+	<map>
+	<set>
+	<cassert>
+	<cmath>
+	<bitset>
+	"time.h"
+

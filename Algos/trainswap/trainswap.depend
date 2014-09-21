@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1305723913 source:d:\my code\spoj\algos\trainswap\main.c
+	<stdio.h>
+	<stdlib.h>
+

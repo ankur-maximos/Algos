@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1293648899 source:d:\my code\spoj\amr10f\main.cpp
+	<iostream>
+	<fstream>
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	<time.h>
+	<vector>
+

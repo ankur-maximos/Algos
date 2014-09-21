@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1333386657 source:d:\my code\spoj\algos\quicksort\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

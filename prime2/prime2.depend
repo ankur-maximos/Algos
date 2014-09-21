@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1293634352 source:d:\my code\spoj\prime2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<queue>
+	<list>
+	<fstream>
+	<stack>
+	<map>
+	<set>
+	<cassert>
+	<cmath>
+

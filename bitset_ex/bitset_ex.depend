@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1294144238 source:d:\my code\spoj\bitset_ex\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<queue>
+	<list>
+	<fstream>
+	<stack>
+	<map>
+	<set>
+	<cassert>
+	<cmath>
+	<bitset>
+

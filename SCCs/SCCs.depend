@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1334605234 source:d:\my code\spoj\sccs\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

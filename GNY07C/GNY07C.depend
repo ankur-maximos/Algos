@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1289595929 source:d:\my code\spoj\gny07c\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

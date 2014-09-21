@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1332698598 source:d:\my code\spoj\algos\mergesort\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+

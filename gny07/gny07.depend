@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1287777627 source:d:\spoj\gny07\main.cpp
+	<iostream>
+	<string.h>
+
+1287863728 source:d:\my code\gny07\main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+
+1287863728 source:d:\my code\spoj\gny07\main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+
